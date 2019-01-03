@@ -42,7 +42,7 @@
         "jest-cli": "^23.6.0",
         "lint-staged": "^8.1.0",
         "prettier": "^1.13.5",
-        "resemblejs" : "latest" 
+        "resemblejs": "latest"
     },
     "jest": {
         "testEnvironment": "node"
